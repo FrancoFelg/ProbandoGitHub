@@ -16,3 +16,12 @@ Para subir archivos siempre tenemos que hacer:
 3 - git push origin master
 
 Siempre es recomendable hacer un git pull antes de añadir archivos
+
+
+
+
+
+
+
+
+:wq 
